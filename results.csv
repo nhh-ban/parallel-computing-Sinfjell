@@ -1,0 +1,4 @@
+"File","Seconds"
+"solution_original.r",30.2529999999997
+"solution_parallel_loop.r",21.777
+"solution_parallel_function.r",12.6219999999998
